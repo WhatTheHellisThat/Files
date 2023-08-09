@@ -1,0 +1,8 @@
+{
+    "ItemId": "",
+    "Description": "Random Item Description",
+    "NetWeight": 2.0,
+    "Profit": 15.0,
+    "UnitPrice": 25.00,
+    "UnitCost": 10.0
+  }
