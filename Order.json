@@ -27,6 +27,22 @@
   },
   "Customer": {
     "No.": "",
-    "Name": "John Doe"
+    "Email": "customer@example.com",
+    "Name": "John Doe",
+    "CurrencyCode": "USD",
+    "Location": "LOC12345",
+    "Address": {
+      "Name": "John Doe",
+      "Address": "123 Main St",
+      "Address2": "Apt 4B",
+      "City": "Cityville",
+      "CountryCode": "US",
+      "Phone": "+1 (555) 123-4567",
+      "PostCode": "12345",
+      "County": "CA",
+      "PhoneNo": "+1 (555) 123-4567",
+      "MobilePhoneNo": "+1 (555) 987-6543",
+      "Email": "customer@example.com"
+    }
   }
 }
