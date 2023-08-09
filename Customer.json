@@ -9,10 +9,10 @@
       "Address": "123 Main St",
       "Address2": "Apt 4B",
       "City": "Cityville",
-      "Country": "US",
+      "CountryCode": "US",
       "Phone": "+1 (555) 123-4567",
-      "ZipCode": "12345",
-      "State": "CA",
+      "PostCode": "12345",
+      "County": "CA",
       "PhoneNo": "+1 (555) 123-4567",
       "MobilePhoneNo": "+1 (555) 987-6543",
       "Email": "customer@example.com"
