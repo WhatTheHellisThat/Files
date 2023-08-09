@@ -1,7 +1,5 @@
 {
     "ItemId": "12345",
-    "SystemCreatedAt": "2023-08-09T10:30:00Z",
-    "SystemModifiedAt": "2023-08-09T15:45:00Z",
     "Description": "Random Item Description",
     "NetWeight": 2.0,
     "Profit": 15.0,
