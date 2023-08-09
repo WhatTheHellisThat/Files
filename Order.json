@@ -30,7 +30,6 @@
     "Email": "customer@example.com",
     "Name": "John Doe",
     "CurrencyCode": "USD",
-    "Location": "LOC12345",
     "Address": {
       "Name": "John Doe",
       "Address": "123 Main St",
