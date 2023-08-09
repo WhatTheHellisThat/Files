@@ -6,7 +6,7 @@
   "CurrencyCode": "USD",
   "Status": "Open",
   "Email": "customer@example.com",
-  "orderLines": [
+  "OrderLines": [
     {
       "ProductCode": "12345",
       "Quantity": 1
