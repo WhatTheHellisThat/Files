@@ -9,6 +9,7 @@
   "Location": "",
   "OrderLines": [
     {
+      "Type":0,
       "No.": "12345",
       "Quantity": 2
     },
