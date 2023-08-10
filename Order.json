@@ -6,7 +6,6 @@
   "CurrencyCode": "USD",
   "Status": 0,
   "Email": "customer@example.com",
-  "LocationCode": "",
   "OrderLines": [
     {
       "Type":2,
