@@ -8,8 +8,8 @@
   "Location": "",
   "OrderLines": [
     {
-      "ProductCode": "12345",
-      "Quantity": 1
+    "No.": "12345",
+    "Quantity": 2.0
     }
   ],
   "Address": {
