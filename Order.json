@@ -6,7 +6,7 @@
   "CurrencyCode": "USD",
   "Status": 0,
   "Email": "customer@example.com",
-  "Location": "",
+  "LocationCode": "",
   "OrderLines": [
     {
       "Type":2,
@@ -30,7 +30,6 @@
     "State": "CA",
     "PhoneNo": "+1 (555) 123-4567",
     "MobilePhoneNo": "+1 (555) 987-6543",
-    "Email": "customer@example.com"
   },
   "BillingAddress": {
     "Name": "John Doe",
@@ -43,6 +42,5 @@
     "State": "CA",
     "PhoneNo": "+1 (555) 123-4567",
     "MobilePhoneNo": "+1 (555) 987-6543",
-    "Email": "customer@example.com"
   }
 }
