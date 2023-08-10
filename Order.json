@@ -6,6 +6,7 @@
   "CurrencyCode": "USD",
   "Status": "Open",
   "Email": "customer@example.com",
+  "Location": "",
   "OrderLines": [
     {
       "ProductCode": "12345",
@@ -26,10 +27,11 @@
     "Email": "customer@example.com"
   },
   "Customer": {
-    "No.": "",
+    "No.": "CUST12345",
     "Email": "customer@example.com",
     "Name": "John Doe",
     "CurrencyCode": "USD",
+    "Location": "",
     "Address": {
       "Name": "John Doe",
       "Address": "123 Main St",
