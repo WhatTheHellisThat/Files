@@ -1,5 +1,6 @@
 {
   "No.": "",
+  "CustomerNo": "",
   "OrderDate": "2023-08-09T10:00:00Z",
   "TotalAmount": 1500,
   "CurrencyCode": "USD",
@@ -8,11 +9,16 @@
   "Location": "",
   "OrderLines": [
     {
-    "No.": "12345",
-    "Quantity": 2.0
+      "No.": "12345",
+      "Quantity": 2
+    },
+    {
+      "Type": 1,
+      "No.": "12345",
+      "Quantity": 2
     }
   ],
-  "Address": {
+  "ShippingAddress": {
     "Name": "John Doe",
     "Address": "123 Main St",
     "Address2": "Apt 4B",
@@ -25,24 +31,17 @@
     "MobilePhoneNo": "+1 (555) 987-6543",
     "Email": "customer@example.com"
   },
-  "Customer": {
-    "No.": "",
-    "Email": "customer@example.com",
+  "BillingAddress": {
     "Name": "John Doe",
-    "CurrencyCode": "USD",
-    "Location": "",
-    "Address": {
-      "Name": "John Doe",
-      "Address": "123 Main St",
-      "Address2": "Apt 4B",
-      "City": "Cityville",
-      "CountryCode": "US",
-      "Phone": "+1 (555) 123-4567",
-      "PostCode": "12345",
-      "County": "CA",
-      "PhoneNo": "+1 (555) 123-4567",
-      "MobilePhoneNo": "+1 (555) 987-6543",
-      "Email": "customer@example.com"
-    }
+    "Address": "123 Main St",
+    "Address2": "Apt 4B",
+    "City": "Cityville",
+    "Country": "US",
+    "Phone": "+1 (555) 123-4567",
+    "ZipCode": "12345",
+    "State": "CA",
+    "PhoneNo": "+1 (555) 123-4567",
+    "MobilePhoneNo": "+1 (555) 987-6543",
+    "Email": "customer@example.com"
   }
 }
