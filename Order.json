@@ -4,7 +4,7 @@
   "OrderDate": "2023-08-09T10:00:00Z",
   "TotalAmount": 1500,
   "CurrencyCode": "USD",
-  "Status": "Open",
+  "Status": 0,
   "Email": "customer@example.com",
   "Location": "",
   "OrderLines": [
