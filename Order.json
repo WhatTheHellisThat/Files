@@ -9,12 +9,12 @@
   "OrderLines": [
     {
       "Type":2,
-      "No.": "12345",
+      "Number": "12345",
       "Quantity": 2
     },
     {
       "Type": 0,
-      "No.": "12345",
+      "Number": "12345",
       "Quantity": 2
     }
   ],
