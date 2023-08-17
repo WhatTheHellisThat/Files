@@ -1,5 +1,5 @@
 {
-    "No.": "CUST12345",
+    "Number": "CUST12345",
     "Email": "customer@example.com",
     "Name": "John Doe",
     "CurrencyCode": "USD",
