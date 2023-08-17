@@ -1,20 +1,15 @@
 {
   "Number": "",
-  "CustomerNumber": "CUST12345",
+  "CustomerNumber": "C00750",
   "OrderDate": "2023-08-09T10:00:00Z",
   "TotalAmount": 1500,
   "CurrencyCode": "USD",
   "Status": 0,
-  "Email": "customer@example.com",
+  "Email": "1869@Sharklasers.com",
   "OrderLines": [
     {
-      "Type":2,
-      "Number": "12345",
-      "Quantity": 2
-    },
-    {
-      "Type": 0,
-      "Number": "12345",
+      "Type": 2,
+      "Number": "5248",
       "Quantity": 2
     }
   ],
@@ -28,7 +23,7 @@
     "ZipCode": "12345",
     "State": "CA",
     "PhoneNo": "+1 (555) 123-4567",
-    "MobilePhoneNo": "+1 (555) 987-6543",
+    "MobilePhoneNo": "+1 (555) 987-6543"
   },
   "BillingAddress": {
     "Name": "John Doe",
@@ -40,6 +35,6 @@
     "ZipCode": "12345",
     "State": "CA",
     "PhoneNo": "+1 (555) 123-4567",
-    "MobilePhoneNo": "+1 (555) 987-6543",
+    "MobilePhoneNo": "+1 (555) 987-6543"
   }
 }
